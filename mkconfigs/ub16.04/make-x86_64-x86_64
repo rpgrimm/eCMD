@@ -1,0 +1,18 @@
+##
+# Any compiler customization
+##
+
+##
+# Any swig customization
+##
+
+##
+# Any perl customization
+##
+PERLINC := -I/usr/lib/x86_64-linux-gnu/perl/5.22/CORE
+
+##
+# Any python customization
+##
+PYINC := -I/usr/include/python2.7
+PY3INC := -I/usr/include/python3.5
